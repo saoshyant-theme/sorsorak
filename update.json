@@ -1,6 +1,6 @@
 {
 	"name": "SorSorak",
-	"version": "2.0",
+	"version": "2.1",
 	"download_url": "http://sao-wp.ir/download/sorsorak.zip",
 
 	"homepage": "http://example.com/",
@@ -9,7 +9,7 @@
 	"last_updated": "2017-01-01 16:17:00",
 	"upgrade_notice": "Here's why you should upgrade...",
 
-	"author": "Jats",
+	"author": "fafa",
 	"author_homepage": "http://example.com/",
 
 	"sections": {
